@@ -1,5 +1,4 @@
-# Desafio-refatora-o
-Claro! Vou apenas corrigir o termo “Strategies” para “Estratégias” nos títulos e comentários, mantendo o código exatamente funcional como está.
+
 
 
 ---
