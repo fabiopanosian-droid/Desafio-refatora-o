@@ -3,7 +3,7 @@
 
 ---
 
-✅ CÓDIGO CORRIGIDO (apenas nomes nos comentários)
+
 
 # ==============================
 # ESTRATÉGIAS DE DESCONTO
